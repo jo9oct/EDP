@@ -59,4 +59,4 @@ Earn or lose points based on your choice.
 
 After 5 rounds, your total score is displayed.
 
-                                       📌 Notes => If you select the wrong unit, you lose points — think carefully!
+              📌 Notes => If you select the wrong unit, you lose points — think carefully!
