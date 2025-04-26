@@ -1,14 +1,14 @@
 
 NAME : Yohannis hailye   ----------   1501575
 
-      🚨 Emergency Response Simulation
+                                  🚨 Emergency Response Simulation
 
-   📜 Description
+       📜 Description
 This C# console application simulates an Emergency Response System where players select appropriate emergency units to handle different incidents like Crime, Fire, Medical emergencies, and Rescue operations.
 
 Players must choose the right unit based on the incident type to earn points. Wrong choices will cause a point deduction!
 
-   🎯 Features
+      🎯 Features
 Abstract EmergencyUnit superclass with specialized subclasses:
 
 Police: handles Crime
@@ -48,7 +48,7 @@ Helicopter	          Handles Rescue incidents (like airplane rescues).
 Incident	          Represents an emergency incident with type, location, and difficulty.
 Program	              Contains the Main method to run the simulation.
 
-   🕹️ How to Play
+       🕹️ How to Play
 Start the program.
 
 Each turn, a random incident is generated.
