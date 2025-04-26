@@ -37,18 +37,6 @@ Scoring system:
 
 Final score displayed after 5 rounds.
 
-           🛠️ Methods and OOP Concepts Used
-           
-This program uses several key Object-Oriented Programming (OOP) principles and programming techniques:
-
-  Concept	                                            Explanation
-Abstraction :	        The EmergencyUnit class is abstract, defining common properties and methods without full implementations.
-Inheritance :	        Police, Firefighter, Ambulance, and Helicopter inherit from EmergencyUnit, reusing and extending its functionality.
-Polymorphism :	      The program uses arrays of the base EmergencyUnit type to store different kinds of units and call overridden methods at runtime.
-Encapsulation :	      Properties like Name, Speed, and methods like CanHandle and RespondToIncident are grouped inside classes, keeping data organized.
-Randomization :	      Random number generation is used to create incidents and select unit numbers, making the simulation dynamic.
-Manual Selection :  	Player manually chooses which unit should respond, adding interactivity to the program.
-
          🏗️ Project Structure
 
    Class	                     Responsibility
