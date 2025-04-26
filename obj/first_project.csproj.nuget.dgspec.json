@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jops7\\OneDrive\\Documents\\code\\first_project\\first_project.csproj": {}
+    "C:\\Users\\jops7\\OneDrive\\Documents\\code\\code class\\first_project\\first_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jops7\\OneDrive\\Documents\\code\\first_project\\first_project.csproj": {
+    "C:\\Users\\jops7\\OneDrive\\Documents\\code\\code class\\first_project\\first_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jops7\\OneDrive\\Documents\\code\\first_project\\first_project.csproj",
+        "projectUniqueName": "C:\\Users\\jops7\\OneDrive\\Documents\\code\\code class\\first_project\\first_project.csproj",
         "projectName": "first_project",
-        "projectPath": "C:\\Users\\jops7\\OneDrive\\Documents\\code\\first_project\\first_project.csproj",
+        "projectPath": "C:\\Users\\jops7\\OneDrive\\Documents\\code\\code class\\first_project\\first_project.csproj",
         "packagesPath": "C:\\Users\\jops7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jops7\\OneDrive\\Documents\\code\\first_project\\obj\\",
+        "outputPath": "C:\\Users\\jops7\\OneDrive\\Documents\\code\\code class\\first_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
